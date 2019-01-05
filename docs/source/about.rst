@@ -77,7 +77,7 @@ style of publishing objects to URLs to build a framework and CMS around.
 An Object Graph: The guillotina datastore.
 ------------------------------------------
 
-At the beginging there is the notiion of Content-Type. A content type, it's just
+At the beginging there is the notion of Content-Type. A content type, it's just
 a python interface (A class) that describes an object. Every object could be stored
 on the db. And every objet, could have child objects related to them. Something like:
 
